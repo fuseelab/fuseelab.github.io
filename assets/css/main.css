@@ -48,6 +48,11 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	#research, #team, #publications, #service, #teaching, #positions {
+	    padding-top: 80px;
+	    margin-top: -80px;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
