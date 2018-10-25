@@ -1,4 +1,7 @@
 <li>Joe-Ricardo Solon, M.Eng.: Tracability of Dental Records using DLT.</li>
+<li>Ali Dehghanfard, M.A.Sc.: Energy-Efficient Consensus Protocol for Blockchains.</li>
+<li>Manuel Néro, M.A.Sc.: Traceability in a Blood Donation System using Smart Contracts.</li>
+
 
 <div>
   <h4><b style="font-weight: bold">External Participants (Mentoring and Collaborations)</b></h4>
