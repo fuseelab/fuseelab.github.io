@@ -2,6 +2,7 @@
 <li>Ali Dehghanfard, M.A.Sc.: Energy-Efficient Consensus Protocol for Blockchains.</li>
 <li>Manuel Néro, M.A.Sc.: Traceability in a Blood Donation System using Smart Contracts.</li>
 <li>Mohammad Reza Rasol Roveicy, Ph.D.: Designing Secure and Efficient Smart Contracts for DLT.</li>
+<li>Étienne Boudreault-Pilon, B.Eng.: Smart Contracts for Letter of Credit. Co-supervised with Mustapha Ouhimmou.</li>
 
 
 <div>
