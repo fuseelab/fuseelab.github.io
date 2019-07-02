@@ -5,6 +5,8 @@
 <li>Étienne Boudreault-Pilon, B.Eng.: Smart Contracts for Letter of Credit. Co-supervised with Mustapha Ouhimmou.</li>
 <li>Kashif Inayat, Ph.D.: Security Frameworks for IoT DLT.</li>
 <li>Salar Arbarbi, Ph.D.: Scalability in Permissionless Blockchain Systems.</li>
+<li>Tunde Bakare, M.A.Sc.: Development of Smart Contracts for Banking Applications.</li>
+<li>Reza Nourmohammadi, Ph.D.: Machine Learning Models for Blockchain Analysis.</li>
 
 <div>
   <h4><b style="font-weight: bold">External Participants (Mentoring and Collaborations)</b></h4>
