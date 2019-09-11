@@ -25,3 +25,5 @@
     <li>Eric Zhang, M.Sc. (UofT): BlockPub: Realizing Peer-to-Peer Content Delivery with Monetary Incentives. Supervised by Hans-Arno Jacobsen.</li>
   </l>
 </div>
+
+<li><b>Postdoctoral</b> position available for conducting research on blockchain systems.
