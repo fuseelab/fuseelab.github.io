@@ -2009,6 +2009,16 @@
 						color: #fff;
 					}
 
+					#nav li.current a {
+						background: #b1ddab;
+						color: #fff;
+					}
+
+					#nav li.highlight a {
+						background: #ff4242;
+						color: #fff;
+					}					
+
 			.dropotron {
 				background: #6B7770;
 				color: #fff;
