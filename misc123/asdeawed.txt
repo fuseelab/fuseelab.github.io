@@ -27,3 +27,6 @@
 </div>
 
 <li><b>Postdoctoral</b> position available for conducting research on blockchain systems.
+
+<li>Skander Mansouri, M.A.Sc.: Smart Contracts Development in Ethereum.</li>
+<li>Skander Mansouri, M. Sc. A. : Développement de contrats intelligents dans Ethereum.</li>
