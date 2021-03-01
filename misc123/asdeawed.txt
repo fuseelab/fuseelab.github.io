@@ -30,3 +30,7 @@
 
 <li>Skander Mansouri, M.A.Sc.: Smart Contracts Development in Ethereum.</li>
 <li>Skander Mansouri, M. Sc. A. : Développement de contrats intelligents dans Ethereum.</li>
+
+<li><b>Priorité actuelle donnée à la recherche sur les chaînes de blocs industrielles.</b> Les candidats doivent souhaiter apprendre les concepts et la programmation liés aux chaînes de blocs. Les projets impliquent la conception et le codage de contrats intelligents, les tests et les évaluations sur des plates-formes de chaînes de blocs libres.</li>
+
+<li><b>Current focus on industrial blockchain research.</b> Candidates should be eager to learn blockchain-related concepts and programming. Projects involve design and coding of smart contracts, testing and evaluation on open-source blockchain platforms.</li>
