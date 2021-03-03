@@ -7,7 +7,7 @@
 <li>Salar Arbarbi, Ph.D.: Scalability in Permissionless Blockchain Systems.</li>
 <li>Tunde Bakare, M.A.Sc.: Development of Smart Contracts for Banking Applications.</li>
 <li>Reza Nourmohammadi, Ph.D.: Machine Learning Models for Blockchain Analysis.</li>
-
+1
 <div>
   <h4><b style="font-weight: bold">External Participants (Mentoring and Collaborations)</b></h4>
   <ul style="list-style-type:square">
