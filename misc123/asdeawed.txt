@@ -1,3 +1,10 @@
+												<div>
+													<h4><b style="font-weight: bold">Research Members</b></h4>
+													<ul style="list-style-type:square">
+														<li>Dr. Aamir Shahzad, Research Associate: Blockchain Systems for IoT and Supply Chain Management.</li>
+													</l>
+												</div>
+
 <li>Joe-Ricardo Solon, M.Eng.: Tracability of Dental Records using DLT.</li>
 <li>Ali Dehghanfard, M.A.Sc.: Energy-Efficient Consensus Protocol for Blockchains.</li>
 <li>Manuel Néro, M.A.Sc.: Traceability in a Blood Donation System using Smart Contracts.</li>
