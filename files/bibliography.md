@@ -1,15 +1,12 @@
 
-
 # FUSÉE Lab Blockchain Knowledge base
 
-In order to edit this document and and the [FUSEE Lab website](https://github.com/bnb-chain/bsc-ecosystem), please do a pull request. 
-
-The goal of this page is to provide the current status of the open-source BNB Smart Chain Tech Stack and highlight the potential interesting projects that are most demanded by the BSC community and ecosystem.  
+In order to edit this document and the [FUSEE Lab website](https://github.com/bnb-chain/bsc-ecosystem), please do a pull request. 
 
 ## <ins> About</ins>
 This document is a knowledge base on blockain create by the FUSÉE Lab. 
 
->📝 _The goal of this document is to provide the FUSÉE Lab members and the community with the latest and accurate informations about the blockchain ecosystem._
+>📝 _The goal of this document is to provide the FUSÉE Lab members and the community with the latest informations about the blockchain ecosystem._
 
 
 ### <ins> Books </ins>
@@ -221,4 +218,3 @@ This document is a knowledge base on blockain create by the FUSÉE Lab.
 <li>Analyze applications for blockchain 1.0, 2.0, 3.0</li>
 <li>Identify their reqs, and propose which system</li>
 </ol>
-
