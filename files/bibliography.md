@@ -8,6 +8,25 @@ This document is a knowledge base on blockain create by the FUSÉE Lab.
 
 >📝 _The goal of this document is to provide the FUSÉE Lab members and the community with the latest informations about the blockchain ecosystem._
 
+### <ins> Articles </ins>
+
+| Titles | Website | Notes 
+|-|-|-
+|[Bank of Canada report](http://www.bankofcanada.ca/wp-content/uploads/2017/05/fsr-june-2017-chapman.pdf)|http://www.bankofcanada.ca/| TODO
+|[Blockchain ticketing](https://www.coindesk.com/blockchain-startups-take-ticket-touting-will-gain-traction/)|https://www.coindesk.com| TODO
+|[Blockchain supply chain transparency](https://www.engadget.com/2017/07/31/technology-supply-chain-transparency/)|https://www.engadget.com| TODO
+|[Nithin Coca: Technology is failing to create transparent supply chains](https://www.engadget.com/2017/07/31/technology-supply-chain-transparency/)|https://www.engadget.com|TODO
+|[Product-centric information management: A case study of a shared platform with blockchain technology.](#)|#|  Mattila, Juri, Timo Seppälä, and Jan Holmström. Industry Studies Association Conference. 2016.
+|[Ppcoin: Peer-to-peer crypto-currency with proof-of-stake.](https://decred.org/research/king2012.pdf )|https://decred.org|King, Sunny, and Scott Nadal
+|[Accelerating Global Trade Processes with Blockchain](#)|#|Nieusma, Benjegerdes, Cohn, Prodromos, Garzik, Roszak
+|[A Case Study for Blockchain in Healthcare: MedRec prototype for electronic health records and medical research data.](#)|#|Proceedings of IEEE Open &Big Data Conference. 2016.
+|[Blockchain and Financial Market Innovation.](https://www.chicagofed.org/~/media/publications/policy-discussion-papers/2017/pdp-2017-03-pdf.pdf )|https://www.chicagofed.org| Rebecca Lewis, John W. McPartland, Rajeev Ranjan. Policy Discussion Paper, Vol. PDP, No. 2017-03, 2017
+|[Over the horizon: Blockchain and the future of financial infrastructure](#)|#|Bob Contri, Rob Galaski.Deloitte, 2016
+|[Blockchain. Credit Suisse](https://www.finextra.com/finextra-downloads/newsdocs/document-1063851711.pdf)|https://www.finextra.com|TODO
+|[Pharmaceutical cold chain management: Platform based on a distributed ledger.](https://ieeexplore.ieee.org/abstract/document/8402709/)|https://ieeexplore.ieee.org||Hulea, M., Rosu, O., Miron, R., & Aştilean, A. (2018, May). IEEE International Conference on Automation, Quality and Testing, Robotics (AQTR)
+|[Supporting private data on Hyperledger Fabric with secure multiparty computation](https://ieeexplore.ieee.org/abstract/document/8360354/)|https://ieeexplore.ieee.org|Benhamouda, F., Halevi, S., & Halevi, T. (2018, April) IEEE International Conference on (pp. 357-363). IEEE.
+|[Tendermint: Consensus without Mining](https://tendermint.com/static/docs/tendermint.pdf)|https://tendermint.com|TODO
+|[Graphene Blockchain Engine (BitShares Documentation)](https://how.bitshares.works/en/master/)|http://docs.bitshares.org/ |TODO
 
 ### <ins> Books </ins>
 
@@ -27,6 +46,7 @@ This document is a knowledge base on blockain create by the FUSÉE Lab.
 ### <ins>Academic papers</ins>
 | Title | Notes 
 |-|-|
+| [BlockChain Technology: Beyond bitcoin](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)|TODO
 | [Counterfactual: Generalized State Channels](https://l4.ventures/papers/statechannels.pdf) | TODO
 | [Obsidian: a safer blockchain programming language](https://dl.acm.org/doi/10.1109/ICSE-C.2017.150) | TODO
 | [A Pattern Collection for Blockchain-based Applications](https:wwwresearchgatenetpublication325439030_A_Pattern_Collection_for_Blockchain-based_Applications) | TODO
