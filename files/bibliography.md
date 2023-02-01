@@ -1,7 +1,7 @@
 
 # FUSÉE Lab Blockchain Knowledge base
 
-In order to edit this document and the [FUSEE Lab website](https://github.com/bnb-chain/bsc-ecosystem), please do a pull request. 
+In order to edit this document and the [FUSEE Lab website](https://fuseelab.github.io/), please do a pull request. 
 
 ## <ins> About</ins>
 This document is a knowledge base on blockain create by the FUSÉE Lab. 
