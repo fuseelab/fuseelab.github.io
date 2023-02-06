@@ -12,6 +12,8 @@ This document is a knowledge base on blockain create by the FUSÉE Lab.
 
 | Titles | Website | Notes 
 |-|-|-
+|[Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf)|#|Miguel Castro and Barbara Liskov - Laboratory for Computer Science,Massachusetts Institute of Technology
+|[The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf)|#|LESLIE LAMPORT, ROBERT SHOSTAK, and MARSHALL PEASE - SRI International 
 |[Bank of Canada report](http://www.bankofcanada.ca/wp-content/uploads/2017/05/fsr-june-2017-chapman.pdf)|http://www.bankofcanada.ca/| TODO
 |[Blockchain ticketing](https://www.coindesk.com/blockchain-startups-take-ticket-touting-will-gain-traction/)|https://www.coindesk.com| TODO
 |[Blockchain supply chain transparency](https://www.engadget.com/2017/07/31/technology-supply-chain-transparency/)|https://www.engadget.com| TODO
