@@ -42,7 +42,8 @@ This document is a knowledge base on blockain create by the FUSÉE Lab.
 | [Swanson Book](http://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/564ca429e4b0a9e90a947ba2/1447863337472/Watermarked-tokens-and-pseudonymity-on-public-blockchains-Swanson.pdf) | TODO
 | [Blockchain: Blueprint for a new economy](https://books.google.ca/books?hl=en&lr=&id=RHJmBgAAQBAJ&oi=fnd&pg=PR3&dq=blockchain+&ots=XPyFE02Uf0&sig=S5PrMuqdh9yJEC375_aNBhb6QKg#v=onepage&q=blockchain&f=false) | Book talks about applications, i.e. Blockchain 1.0, 2.0 and 3.0. 
 | [Princeton Book on Blockchains](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) | Includes basic introduction of ideas, textbook for Blockchain online course
-
+| [Crypto Regulations and Compliance](https://drive.google.com/file/d/1-N01zh47tl5SI882b_waPYsCnSrhyBI3/view?usp=sharing) | This book is divided by the chapters that bring fresh views for various blockchain phenomena, including tokenization, stablecoins, CBDCs, Zero-Knowledge etc.
+| [Fintech Regulation and Supervision Challenges within the Banking Industry](https://drive.google.com/file/d/1-zI6pk9c93dM2bIYRgGgKYrMmbj_01a-/view?usp=sharing) | Great resource that makes a summary of Fintech regulation across most G-20  jurisdictions. This study covers: Payment Services; Online Banking; Social Trading Platforms; Crowdfunding; Crypty; InsurTech.
 
 
 ### <ins>Academic papers</ins>
@@ -132,7 +133,7 @@ This document is a knowledge base on blockain create by the FUSÉE Lab.
 |[Mohan slides](https://drive.google.com/file/d/0B7lNUaak0bK1TllneW1IZjJHS2M/view)
 |[Bitcoin and Ethereum Just Crashed, Taking Coinbase Down With Them](https://fortune.com/2017/06/15/bitcoin-ethereum-price-coinbase-down/)
 |[A blockchain­based property ownership recording system](http://chromaway.com/papers/A-blockchain-based-property-registry.pdf)
-
+|[The State of ZK](https://drive.google.com/file/d/1FzWcNrjYxT4RyW53IVQmmkZIfX9R0kF2/view) | The document proposes a method for users to release zero-knowledge proofs to substantiate specific attributes regarding the source of their funds, instigating heated discussions among privacy aficionados
 
 
 ### <ins>Tools</ins>
@@ -163,6 +164,15 @@ This document is a knowledge base on blockain create by the FUSÉE Lab.
 
 
 ### <ins>Non-Academic Papers</ins>
+| Title | Notes 
+|-|-
+|[The crypto ecosystem: key elements and risks Report submitted to the G20. Finance Ministers and Central Bank Governors](https://www.bis.org/publ/othp72.pdf) | This report reviews the key elements of the crypto ecosystem and assesses their structural flaws.
+|[Runs and Flights to Safety: Are Stablecoins the New Money Market Funds? STAFF REPORTS](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1073.pdf?sc_lang=en) | This paper examines the similarities and differences between stablecoins and money market funds, both of which aim to offer investors safe, money-like assets but are susceptible to runs during times of financial stress. The study analyzes investor behavior during stablecoin runs in 2022 and 2023, comparing it to investor behavior during money market fund runs in 2008 and 2020.
+|[Tokenization: Overview and Financial Stability Implications. Federal Reserve Board](https://www.federalreserve.gov/econres/feds/tokenization-overview-and-financial-stability-implications.htm) | In this paper we outline tokenization, which is a new and rapidly growing financial innovation in crypto asset markets, and we discuss potential benefits and financial stability implications. 
+|[Alternative payment solutions: how they are changing the payment scene](https://drive.google.com/file/d/1xcY92D5J9c4tASrxZq_XVaoQ6ToRh0Id/view?usp=sharing) | This paper discovers different types of alternative payment methods
+|[RWA report: The Deep Dive into 2023 Market](https://redstone.finance/reports/rwa-report.pdf) | Great paper by Redstone that explore modern trends and statistic around tokenization of Real World Assets.
+
+
 
 ### <ins>White Papers</ins>
 | Chain | Docs | Notes
