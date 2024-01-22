@@ -76,7 +76,7 @@ To check your available storage for each directory, simply run `diskusage_report
 
 *Note: we consider your project will have version control using Git, you know how to use Git to perform basic actions such as push/pull, and you use githubas your remote host.*
 To have a compatible setup between your local environment and CC environemt, using python `virtualenv`s are necessary. This ensures that runtime environment for your application is similar between both your local system and remote cluster.
-**Important Note**: By the time of writing this guide, the latest version of python available on CC clusters is `3.11.5`, which is what we are going to write our guide based on. ()
+**Important Note**: By the time of writing this guide, the latest version of python available on CC clusters is `3.11.5`, which is what we are going to write our guide based on.
 To setup the `virtualenv`, first install the package by using `pip install virtualenv`.
 After the installation is completed, create a virtualenv by using `virtualenv -p python3.11.5 ml_cc_p3115`. You can replace `ml_cc_p3115` by any name you want.
 Now to activate the virtual environment, run the following commands:
