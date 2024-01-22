@@ -44,7 +44,8 @@ This document is a knowledge base on blockain create by the FUSÉE Lab.
 | [Princeton Book on Blockchains](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) | Includes basic introduction of ideas, textbook for Blockchain online course
 | [Crypto Regulations and Compliance](https://drive.google.com/file/d/1-N01zh47tl5SI882b_waPYsCnSrhyBI3/view?usp=sharing) | This book is divided by the chapters that bring fresh views for various blockchain phenomena, including tokenization, stablecoins, CBDCs, Zero-Knowledge etc.
 | [Fintech Regulation and Supervision Challenges within the Banking Industry](https://drive.google.com/file/d/1-zI6pk9c93dM2bIYRgGgKYrMmbj_01a-/view?usp=sharing) | Great resource that makes a summary of Fintech regulation across most G-20  jurisdictions. This study covers: Payment Services; Online Banking; Social Trading Platforms; Crowdfunding; Crypty; InsurTech.
-
+| [Understanding blockchain governance: Analyzing decentralized voting to amend DeFi smart contracts.](https://arxiv.org/abs/2305.17655) | explaine technical side of decentralized voting
+| [Cryptocurrency regulation: A primer. Edward Elgar Publishing](https://www.elgaronline.com/monobook/book/9781035318186/9781035318186.xml) | This book examines the regulation of cryptocurrency trading by state and federal financial services regulators, in order to understand why these statutes proved to be ineffective in regulating this new asset class.
 
 ### <ins>Academic papers</ins>
 | Title | Notes 
@@ -134,6 +135,7 @@ This document is a knowledge base on blockain create by the FUSÉE Lab.
 |[Bitcoin and Ethereum Just Crashed, Taking Coinbase Down With Them](https://fortune.com/2017/06/15/bitcoin-ethereum-price-coinbase-down/)
 |[A blockchain­based property ownership recording system](http://chromaway.com/papers/A-blockchain-based-property-registry.pdf)
 |[The State of ZK](https://drive.google.com/file/d/1FzWcNrjYxT4RyW53IVQmmkZIfX9R0kF2/view) | The document proposes a method for users to release zero-knowledge proofs to substantiate specific attributes regarding the source of their funds, instigating heated discussions among privacy aficionados
+|[Crypto Payments: How Close Are We to Mass Adoption?](https://medium.com/untitled-investment-expertise/crypto-payments-how-close-are-we-to-mass-adoption-dba3380c6a8d) | PayPal launched a USD-based stablecoin last month. SolanaPay has been added as a payment option on Shopify
 
 
 ### <ins>Tools</ins>
@@ -171,7 +173,7 @@ This document is a knowledge base on blockain create by the FUSÉE Lab.
 |[Tokenization: Overview and Financial Stability Implications. Federal Reserve Board](https://www.federalreserve.gov/econres/feds/tokenization-overview-and-financial-stability-implications.htm) | In this paper we outline tokenization, which is a new and rapidly growing financial innovation in crypto asset markets, and we discuss potential benefits and financial stability implications. 
 |[Alternative payment solutions: how they are changing the payment scene](https://drive.google.com/file/d/1xcY92D5J9c4tASrxZq_XVaoQ6ToRh0Id/view?usp=sharing) | This paper discovers different types of alternative payment methods
 |[RWA report: The Deep Dive into 2023 Market](https://redstone.finance/reports/rwa-report.pdf) | Great paper by Redstone that explore modern trends and statistic around tokenization of Real World Assets.
-
+|[The 2023 Geography of Cryptocurrency Report](https://media.licdn.com/dms/document/media/D4E1FAQHEfiYcr1doOw/feedshare-document-pdf-analyzed/0/1699642035405?e=1703116800&v=beta&t=dm9Uk-_x7ceJ45H4Ukl7JAecbor4mwgwcHBdT-tlXBg) | About new tredns in regional trends in crypto adoption
 
 
 ### <ins>White Papers</ins>
